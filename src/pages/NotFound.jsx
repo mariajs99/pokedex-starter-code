@@ -1,5 +1,5 @@
-import sadPikachuImg from "../assets/images/sad-pikachu.gif"
 import { Link } from "react-router-dom"
+import sadPikachuImg from "../assets/images/sad-pikachu.gif"
 import pokeballImg from "../assets/images/pokeball.png"
 
 function NotFound() {
